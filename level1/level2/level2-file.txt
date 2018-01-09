@@ -1,0 +1,6 @@
+const FILL_NONE                         = 'none';
+const FILL_SOLID                        = 'solid';
+const FILL_GRADIENT_LINEAR              = 'linear';
+const FILL_GRADIENT_PATH                = 'path';
+const FILL_PATTERN_DARKDOWN             = 'darkDown';
+const FILL_PATTERN_DARKGRAY             = 'darkGray';
