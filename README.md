@@ -1,3 +1,6 @@
+<!-- 
+   @copyright 2018 git.training   
+-->
 # Starter Web Project
 Introduction text
 ## Introduction
